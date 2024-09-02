@@ -1,3 +1,5 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
 # 💫 About Me:
 
 🔭 I’m currently working on Teension, a social media platform<br>👯 I’m looking to collaborate on open-source projects focused on web development and UI design.<br>🤝 I’m looking for help with complex backend logics and tech stacks<br>🌱 I’m currently learning NextJS and Prisma<br>⚡ Fun fact! I learn things in the speed of light
@@ -14,13 +16,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=RaunakDiesFromCode&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RaunakDiesFromCode&theme=synthwave&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=RaunakDiesFromCode&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RaunakDiesFromCode&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDiesFromCode&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ### 🔝 Top Contributed Repo
 
