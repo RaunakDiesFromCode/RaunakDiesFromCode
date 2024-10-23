@@ -1,6 +1,9 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="RaunakDiesFromCode" /> </p>
 
-
+<div align="center">
+<img src="https://github.com/RaunakDiesFromCode/RaunakDiesFromCode/blob/3e44fbba976b35b0e8245a06b2bee81dc9edc703/image.png?raw=true" alt="pfp" width="200"></img>
+  </div>
+  
 <h1 align="center">Hello from Raunak👋</h1>
 
 <table align="center">
