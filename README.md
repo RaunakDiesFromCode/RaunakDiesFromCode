@@ -159,11 +159,9 @@
 <h1 align="center">🏆 My Github trophies 🏆</h1>
 <p align="center">
   <a href="https://github.com/RaunakDiesFromCode">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RaunakDiesFromCode&no-bg=true&row=1&column=8&margin-w=20&margin-h=20&theme=nord">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RaunakDiesFromCode&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RaunakDiesFromCode&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
+      <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=RaunakDiesFromCode&theme=nord&no-frame=true&no-bg=true&margin-w=4">
+    </picture> 
+    
   </a>
 </p>
 
