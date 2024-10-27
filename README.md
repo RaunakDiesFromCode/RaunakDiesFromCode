@@ -137,17 +137,17 @@
 
 <div align="center">
 
-[![CodePen](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/codepen.svg)](https://codepen.io/captainTigerYT)
-[![Discord](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/discord.svg)](https://discord.com/channels/@me)
-[![Facebook](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/facebook.svg)](https://www.facebook.com/profile.php?id=61558219854971)
-[![Gmail](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/gmail.svg)](mailto:raunakmanna43@gmail.com)
-[![Instagram](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/instagram.svg)](https://instagram.com/raunakisannoying)
-[![LeetCode](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/leetcode.svg)](https://leetcode.com/u/captainTigerYT/)
-[![LinkedIn](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/linkedin.svg)](https://www.linkedin.com/in/raunak-manna-922a922b8/)
-[![Reddit](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/reddit.svg)](https://reddit.com/user/u/CaaptainTiger)
-[![Stack Overflow](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/stackoverflow.svg)](https://stackoverflow.com/users/14680368/captain-tiger)
-[![WhatsApp](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/whatsapp.svg)](https://api.whatsapp.com/send?phone=917439063193)
-[![X](https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/twitter.svg)](https://x.com/RaunakM298742)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/codepen.svg" width="40" height="40">](https://codepen.io/captainTigerYT)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/discord.svg" width="40" height="40">](https://discord.com/channels/@me)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/facebook.svg" width="40" height="40">](https://www.facebook.com/profile.php?id=61558219854971)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/gmail.svg" width="40" height="40">](mailto:raunakmanna43@gmail.com)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/instagram.svg" width="40" height="40">](https://instagram.com/raunakisannoying)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/leetcode.svg" width="40" height="40">](https://leetcode.com/u/captainTigerYT/)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/linkedin.svg" width="40" height="40">](https://www.linkedin.com/in/raunak-manna-922a922b8/)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/reddit.svg" width="40" height="40">](https://reddit.com/user/u/CaaptainTiger)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/stackoverflow.svg" width="40" height="40">](https://stackoverflow.com/users/14680368/captain-tiger)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/whatsapp.svg" width="35" height="40">](https://api.whatsapp.com/send?phone=917439063193)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/twitter.svg" width="40" height="40">](https://x.com/RaunakM298742)
 
 </div>
 
