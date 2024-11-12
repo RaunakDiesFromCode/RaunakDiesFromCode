@@ -18,7 +18,7 @@
 
 <h2 align="center">
   Visit my
-  <a href="https://raunakdiesfromcode.github.io/portfolio/">
+  <a href="https://hifromraunak.vercel.app">
     Portfolio
   </a>
 </h2>
