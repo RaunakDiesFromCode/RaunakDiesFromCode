@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="RaunakDiesFromCode" /> </p>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/image.png" alt="pfp" width="200"></img>
   </div>
@@ -32,6 +30,9 @@
 <hr/>
 <br/>
 
+<table align="center">
+  <tr>
+<td align="center">
 <h1 align="center">💻 Tech Stack 💻</h1>
 
 <div align="center">
@@ -128,6 +129,9 @@
 ![Prettier](https://img.shields.io/badge/prettier-000.svg?style=for-the-badge&logo=prettier&logoColor=white)
 
 </div>
+</td>
+    </tr>
+</table>
 
 <br/>
 <hr/>
@@ -231,5 +235,6 @@
 <br/>
 
 <div align="center">
+  <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" alt="RaunakDiesFromCode" /> </p>
 <h3> made with ❤️ by 🅁🄰🅄🄽🄰🄺 </h3>
 </div>
