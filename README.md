@@ -130,6 +130,9 @@
 <br/>
 <br/>
 
+<table align="center">
+  <tr>
+<td align="center">
 <h1 align="center">🌐 Connect with me 🌐</h1>
 
 <div align="center">
@@ -147,12 +150,17 @@
 [<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/logos/twitter.png" width="40" height="40">](https://x.com/RaunakM298742)
 
 </div>
-
+</td>
+    </tr>
+</table>
 
 
 <br/>
 <br/>
 
+<table align="center">
+  <tr>
+<td align="center">
 <h1 align="center">🏆 My Github trophies 🏆</h1>
 <p align="center">
   <a href="https://github.com/RaunakDiesFromCode">
@@ -161,6 +169,10 @@
     
   </a>
 </p>
+</td>
+    </tr>
+</table>
+
 
 <br/>
 <br/>
@@ -210,13 +222,20 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaunakDiesFromCode&theme=nord&hide_border=true&area=true&border-radius=15">
 </div>
 
+
 <br/>
 <br/>
 
+<table align="center">
+  <tr>
+<td align="center">
 <h1 align="center">⭐ My LeetCode ⭐</h1>
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/RaunakDiesFromCode?theme=nord&font=Noto%20Sans%20Duployan&ext=heatmap" border-radius="15">
 </div>
+</td>
+    </tr>
+</table>
 
 <br/>
 <hr/>
