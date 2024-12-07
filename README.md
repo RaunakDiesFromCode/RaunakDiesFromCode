@@ -143,7 +143,7 @@
 [<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/logos/linkedin.png" width="40" height="40">](https://www.linkedin.com/in/raunak-manna-922a922b8/)
 [<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/logos/reddit.png" width="40" height="40">](https://reddit.com/user/u/CaaptainTiger)
 [<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/logos/stackoverflow.png" width="40" height="40">](https://stackoverflow.com/users/14680368/captain-tiger)
-[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/logos/whatsapp.png" width="35" height="40">](https://api.whatsapp.com/send?phone=917439063193)
+[<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/logos/whatsapp.png" width="40" height="40">](https://api.whatsapp.com/send?phone=917439063193)
 [<img src="https://raw.githubusercontent.com/RaunakDiesFromCode/RaunakDiesFromCode/refs/heads/main/images/logos/twitter.png" width="40" height="40">](https://x.com/RaunakM298742)
 
 </div>
