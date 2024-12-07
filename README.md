@@ -21,13 +21,7 @@
   </a>
   !
 </h2>
-
 <br/>
-  <p align="center"> <img src="https://visitcount.itsvg.in/api?id=RaunakDiesFromCode&icon=6&color=0" alt="RaunakDiesFromCode" /> </p>
-  <p align="center"> <img src="http://img.shields.io/badge/Code%20Time-1000+hrs-blue" alt="RaunakDiesFromCode" /> </p>
-
-
-<hr/>
 <br/>
 
 <table align="center">
@@ -134,7 +128,6 @@
 </table>
 
 <br/>
-<hr/>
 <br/>
 
 <h1 align="center">🌐 Connect with me 🌐</h1>
@@ -158,7 +151,6 @@
 
 
 <br/>
-<hr/>
 <br/>
 
 <h1 align="center">🏆 My Github trophies 🏆</h1>
@@ -171,17 +163,14 @@
 </p>
 
 <br/>
-<hr/>
 <br/>
 
 <h1 align="center">🏆 My Github stats 🏆
 </h1>
 
-<h1 align="center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaunakDiesFromCode&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-<h1/>
-
-
+<p/>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -222,7 +211,6 @@
 </div>
 
 <br/>
-<hr/>
 <br/>
 
 <h1 align="center">⭐ My LeetCode ⭐</h1>
@@ -236,5 +224,6 @@
 
 <div align="center">
   <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" alt="RaunakDiesFromCode" /> </p>
-<h3> made with ❤️ by 🅁🄰🅄🄽🄰🄺 </h3>
+  <h3> made with ❤️ by 🅁🄰🅄🄽🄰🄺 </h3>
+   <p align="center"> <img src="https://visitcount.itsvg.in/api?id=RaunakDiesFromCode&icon=6&color=0" alt="RaunakDiesFromCode" /> </p>
 </div>
