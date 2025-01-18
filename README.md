@@ -38,6 +38,7 @@
 
 <p>Design</p>
 
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000?style=for-the-badge&logo=DaVinci+Resolve&logoColor=FFFFFF)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=Canva&logoColor=white)
