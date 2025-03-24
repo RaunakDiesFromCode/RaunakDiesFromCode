@@ -196,7 +196,7 @@
     <td width="50%">
       <p align="center">
         <a href="https://github.com/RaunakDiesFromCode">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakDiesFromCode&theme=nord&hide_border=true" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RaunakDiesFromCode&theme=nord&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
         </a>
       </p>
     </td>
