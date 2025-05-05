@@ -245,5 +245,5 @@
 <div align="center">
   <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" alt="RaunakDiesFromCode" /> </p>
   <h3> made with ❤️ by 🅁🄰🅄🄽🄰🄺 </h3>
-   <p align="center"> <img src="https://visitcount.itsvg.in/api?id=RaunakDiesFromCode&icon=6&color=0" alt="RaunakDiesFromCode" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=raunakdiesfromcode&label=Profile%20views&color=000000&style=for-the-badge&label=People+Loving+Me+Each+Day" alt="RaunakDiesFromCode" /> </p>
 </div>
