@@ -232,7 +232,7 @@
 <td align="center">
 <h1 align="center">⭐ My LeetCode ⭐</h1>
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/RaunakDiesFromCode?theme=nord&font=Noto%20Sans%20Duployan&ext=heatmap" border-radius="15">
+    <img src="https://leetcard.jacoblin.cool/Raunak-M?theme=nord&font=Noto%20Sans%20Duployan&ext=heatmap" border-radius="15">
 </div>
 </td>
     </tr>
