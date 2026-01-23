@@ -40,7 +40,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RaunakDiesFromCode&theme=nord&show_icons=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDiesFromCode&layout=compact&theme=nord&hide_border=true" height="150"/>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaunakDiesFromCode&style=flat&color=000000" />
-</p>
